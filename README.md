@@ -35,7 +35,7 @@ _Coming soon._
 <p>
   <img src="https://img.shields.io/badge/Python-701A3D?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-701A3D?style=for-the-badge" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-701A3D?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-701A3D?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/JavaScript-701A3D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/MySQL-701A3D?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/HTML5-701A3D?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
