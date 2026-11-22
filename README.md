@@ -77,7 +77,7 @@ _Coming soon._
 ## Connect
 
 <!-- TODO: add LinkedIn / LeetCode / portfolio links. Do not add a phone number. -->
-## Connect
+
 
 <p>
   <a href="https://www.linkedin.com/in/varshini-b867273a5"><img src="https://img.shields.io/badge/LinkedIn-701A3D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
