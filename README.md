@@ -6,7 +6,9 @@
 
 ## About
 
-Hi, I'm Varshini, a student at Dayananda Sagar University in Bangalore. I build and learn in public, and this profile collects my work.
+Hi, I'm Varshini, a B.Tech Computer Science & Engineering student at Dayananda Sagar University, Bangalore. I'm an aspiring student who loves to explore new technologies and learn by building things.
+
+I'm always curious, always learning, and excited to grow with every project I work on. This profile collects my work as I build and learn in public.
 
 <!-- TODO: add 1-2 sentences about your branch/year and what you're focused on. -->
 
