@@ -12,25 +12,6 @@ I'm always curious, always learning, and excited to grow with every project I wo
 
 <!-- TODO: add 1-2 sentences about your branch/year and what you're focused on. -->
 
-## Achievements
-
-<!-- TODO: add only achievements and certifications you can verify, with a link to the certificate where possible. -->
-_Coming soon._
-
-## Projects
-
-## Projects
-
-| Project | What it is |
-| --- | --- |
-| [Heart-Disease-Prediction](https://github.com/Varshini-0007/Heart-Disease-Prediction) | Heart disease prediction built in Python |
-| [JobGuard_AI](https://github.com/Varshini-0007/JobGuard_AI) | AI project built in Python |
-| [speech-assistant](https://github.com/Varshini-0007/speech-assistant) | Speech assistant project |
-| [Studyhub](https://github.com/Varshini-0007/Studyhub) | Study platform project |
-
-[See all my repositories](https://github.com/Varshini-0007?tab=repositories)
-
-## Skills
 
 ## Tech Stack
 
@@ -66,6 +47,24 @@ _Coming soon._
   <img src="https://img.shields.io/badge/AWS-701A3D?style=for-the-badge" alt="AWS"/>
 </p>
 <!-- TODO: confirm these and add CSS, Python, frameworks, databases, tools you actually use. -->
+
+
+
+
+
+
+## Projects
+
+| Project | What it is |
+| --- | --- |
+| [Heart-Disease-Prediction](https://github.com/Varshini-0007/Heart-Disease-Prediction) | Heart disease prediction built in Python |
+| [JobGuard_AI](https://github.com/Varshini-0007/JobGuard_AI) | AI project built in Python |
+| [speech-assistant](https://github.com/Varshini-0007/speech-assistant) | Speech assistant project |
+| [Studyhub](https://github.com/Varshini-0007/Studyhub) | Study platform project |
+
+[See all my repositories](https://github.com/Varshini-0007?tab=repositories)
+
+
 
 
 
