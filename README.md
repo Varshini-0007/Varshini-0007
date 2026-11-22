@@ -17,17 +17,20 @@ _Coming soon._
 
 ## Projects
 
-| Repository | What it is |
+## Projects
+
+| Project | What it is |
 | --- | --- |
-| [varshini](https://github.com/Varshini-0007/varshini) | <!-- TODO: one-line description --> |
-| [FSD](https://github.com/Varshini-0007/FSD) | <!-- TODO: one-line description --> |
-| [JAVA](https://github.com/Varshini-0007/JAVA) | Java practice and programs |
-| [Java-Script](https://github.com/Varshini-0007/Java-Script) | JavaScript practice and programs |
-| [HTML](https://github.com/Varshini-0007/HTML) | HTML practice and pages |
+| [Heart-Disease-Prediction](https://github.com/Varshini-0007/Heart-Disease-Prediction) | Heart disease prediction built in Python |
+| [JobGuard_AI](https://github.com/Varshini-0007/JobGuard_AI) | AI project built in Python |
+| [speech-assistant](https://github.com/Varshini-0007/speech-assistant) | Speech assistant project |
+| [Studyhub](https://github.com/Varshini-0007/Studyhub) | Study platform project |
+
+[See all my repositories](https://github.com/Varshini-0007?tab=repositories)
 
 ## Skills
 
-**Languages:** Java, JavaScript, HTML
+**Languages:** Python , C++ , JavaScript, HTML
 <!-- TODO: confirm these and add CSS, Python, frameworks, databases, tools you actually use. -->
 
 ## Contribution activity
